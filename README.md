@@ -1,17 +1,9 @@
 # Portal Cliente Jus 9
 
-## Repertório
+Repertório: `portal-cliente-jus9`
 
-`portal-cliente-jus9`
+Status: novo/técnico
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-novo
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Cria base do portal do cliente/usuário para acompanhamento de solicitações, documentos autorizados, status e integração futura com backend.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
